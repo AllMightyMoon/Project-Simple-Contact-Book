@@ -15,11 +15,11 @@ A simple **Python Contact Book** that stores contacts in a **JSON file** and sup
 ## Installation
 1. Install required libraries:  
    ```
-   pip install colorama
+   pip install -r requirements.txt
    ```
 2. Run the script:  
    ```
-   python contact_book.py
+   python main.py
    ```
 
 ## Usage
